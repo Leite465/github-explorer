@@ -1,5 +1,5 @@
 module.exports = {
-    prests: [
-        '@babel/preset.env'
+    presets: [
+        '@babel/preset-env'
     ]
 };
